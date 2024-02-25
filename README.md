@@ -1,2 +1,2 @@
-# Data-Science-Project
-Data Sciente Project using Python. RNN models are used to classify emails as spam and not spam.  To run the code you need to install Jupyter or you can open it in Google Colab. You will need the dataset which is provided "spam.csv". The file "GoogleNews-vectors-negative300.bin" that is used in the code: , however in the code the file is retrieved from Google Drive, because of its size. See the file DataProject.ipynb for the code.
+# Mini-Data-Science-Project
+Mini Data Sciente Project using Python. RNN models are used to classify emails as spam and not spam. To run the code you need to install Jupyter or you can open it in Google Colab. You will need the dataset which is provided "spam.csv". See the file DataProject.ipynb for the code.
